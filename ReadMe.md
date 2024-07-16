@@ -1,7 +1,3 @@
-# 💫 About Me:
-
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 # Portfolio 👨🏼‍💻
 
 ### ➡️ https://coderemre.dev
